@@ -4,6 +4,14 @@ Final-year undergraduate passionate about **Data Science**, **Machine Learning**
 
 ---
 
+### 📌 Overview
+- 🔭 I’m currently working on **Data Science & Full-Stack Projects**
+- 🌱 I’m currently learning **Machine Learning Pipelines & Advanced React**
+- 💬 Ask me about **Python, Data Analysis, JavaScript, Web Development**
+- ⚡ Fun fact: **Passionate about turning data into actionable insights!**
+
+---
+
 ### 🚀 Tech Stack & Tools
 
 #### 📊 Data Science & Machine Learning
@@ -30,6 +38,8 @@ Final-year undergraduate passionate about **Data Science**, **Machine Learning**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nipuni7&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
+
+---
 
 ### 📬 Connect with Me
 - **LinkedIn:** [Nipuni Theekshana](https://www.linkedin.com/in/nipuni-theekshana-647753315)
