@@ -25,11 +25,11 @@ Final-year undergraduate passionate about **Data Science**, **Machine Learning**
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity & Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nipuni7&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuni7&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nipuni7&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</p>
 
 ### 📬 Connect with Me
 - **LinkedIn:** [Nipuni Theekshana](https://www.linkedin.com/in/nipuni-theekshana-647753315)
