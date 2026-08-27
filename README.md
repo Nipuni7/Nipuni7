@@ -71,7 +71,7 @@ I am a driven **Data Science Undergraduate (BSc Hons)** focused on bridging the 
   <sub>Built with architectural precision and 100% native GitHub blocks. © 2026 Nipuni Theekshana</sub>
 </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-  <img alt="3D Profile Contrib" src="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nipuni7/Nipuni7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nipuni7/Nipuni7/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Nipuni7/Nipuni7/output/github-contribution-grid-snake.svg">
 </picture>
